@@ -1,9 +1,12 @@
 # Stacks
 
-Power BI - Iniciante
-Python(Pandas) - Iniciante/Intermediário
-SQL - Intermedário
-Excel - Iniciante
+### Power BI - Iniciante
+
+### Python(Pandas) - Iniciante/Intermediário
+
+### SQL - Intermedário
+
+### Excel - Iniciante
 
 
 
