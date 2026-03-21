@@ -1,17 +1,17 @@
-# Stacks
+# Stacks 📘
 
-### Power BI - Iniciante
+### 📊 Power BI - Iniciante
 
-### Estatística - Avançado 
+### 🎲 Estatística - Avançado 
 
-### Python(Pandas) - Iniciante/Intermediário
+### 🐍 Python(Pandas) - Iniciante/Intermediário
 
-### SQL - Intermedário
+### 🖥️ SQL - Intermedário
 
-### Excel - Iniciante
-
-
+### 📂 Excel - Iniciante
 
 
-### 📚👌Estarei Atualizando minhas Stacks enquanto eu for me aperfeiçoando ###
+
+
+### 📚👌Estarei Atualizando minhas Stacks enquanto eu for me aperfeiçoando. ###
 
