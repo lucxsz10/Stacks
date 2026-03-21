@@ -2,6 +2,8 @@
 
 ### Power BI - Iniciante
 
+### Estatística - Avançado 
+
 ### Python(Pandas) - Iniciante/Intermediário
 
 ### SQL - Intermedário
